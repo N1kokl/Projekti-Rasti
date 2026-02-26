@@ -1,0 +1,15 @@
+# Node
+node_modules/
+rest-api/.env
+
+# Qt / CMake build
+qt-client/build*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
